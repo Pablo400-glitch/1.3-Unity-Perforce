@@ -36,7 +36,7 @@ En vez de modificar el fichero, cree mi fichero donde escribí mi presentación.
 
 ### Crear y agregar proyecto al deposito
 
-Primero cree el proyecto de Unity en mi ordenador en la carpeta donde clone el deposito de perforce (Figura 5). Posteriormente, el proyecto de Unity lo subí al perforce (Figura 6).
+Primero cree el proyecto de Unity en mi ordenador en la carpeta donde clone el deposito de perforce (Figura 5). Posteriormente, el proyecto de Unity lo subí al servidor de perforce (Figura 6).
 
 ![alt text](images/5.png)
 
